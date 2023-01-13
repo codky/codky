@@ -1,6 +1,6 @@
 ### Hi there  👋
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky)](https://github.com/codky/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky&show_icons=true&theme=tokyonight) -->
 
 <!-- [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=minstones)](https://solved.ac/minstones/) -->
 
