@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/codky"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/codky?pet-id=648431514180383341"
+    width="700"
+    height="200"
+  />
 </a>
+  
