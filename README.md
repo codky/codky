@@ -1,4 +1,4 @@
-### Hi there  👋
+### Hi there :laughing:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky)](https://github.com/codky/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky&show_icons=true&theme=tokyonight) -->
 
