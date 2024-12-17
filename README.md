@@ -1,12 +1,4 @@
-# Codky 😆
-
-Hi there 
-
-
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello!%20😆&fontSize=90)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky)](https://github.com/codky/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky&show_icons=true&theme=tokyonight) -->
 
