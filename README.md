@@ -1,4 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello!%20😆&fontSize=90) -->
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20codky's%20Github&fontSize=50)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky)](https://github.com/codky/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky&show_icons=true&theme=tokyonight) -->
 
@@ -18,10 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! 😆
+<!--Hello! 😆 -->
 
 
-
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=codky&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/codky?pet-id=648431514180383341"
@@ -29,6 +30,7 @@ Hello! 😆
     height="120"
   />
 </a>
+-->
   
   
   
