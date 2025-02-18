@@ -1,5 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello!%20😆&fontSize=90) -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20codky's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Welcome%20to%20codky's%20Github&fontSize=50)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky)](https://github.com/codky/github-readme-stats) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codky&show_icons=true&theme=tokyonight) -->
 
